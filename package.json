@@ -1,6 +1,6 @@
 {
   "name": "jquery.hideItems",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hide a specific number of items",
   "main": "dist/jquery.hideItems.js",
   "scripts": {
