@@ -1,5 +1,5 @@
 {
-  "name": "stickyFooter",
+  "name": "hideItems",
   "version": "1.0.0",
   "homepage": "https://github.com/reinos/jquery.hideItems",
   "authors": [
@@ -10,7 +10,7 @@
     "dist/jquery.hideItems.js"
   ],
   "keywords": [
-    "stickyFooter",
+    "hideItems",
     "jquery.hideItems",
     "reinos"
   ],
